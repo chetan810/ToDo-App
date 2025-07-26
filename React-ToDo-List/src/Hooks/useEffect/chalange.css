@@ -1,0 +1,46 @@
+/* Chalange.css */
+.challenge-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.challenge-container h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.challenge-container p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #555;
+}
+
+.challenge-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.challenge-container button:hover {
+  background-color: #357abd;
+}
+
+.challenge-container input {
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 16px;
+  width: 80%;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
